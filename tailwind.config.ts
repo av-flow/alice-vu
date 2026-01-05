@@ -17,8 +17,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        body: ['var(--font-literata)', 'serif'],
-        headline: ['var(--font-literata)', 'serif'],
+        body: ['var(--font-inter)', 'san-serif'],
+        headline: ['var(--font-jura)', 'san-serif'],
         code: ['monospace'],
       },
       colors: {
